@@ -1,0 +1,1 @@
+g++ main.cpp -o main && echo "build success" && .\main.exe
